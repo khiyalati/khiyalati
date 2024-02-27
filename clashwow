@@ -48,7 +48,7 @@
     {
       "type": "mixed",
       "tag": "mixed-in",
-      "listen": "127.0.0.1",
+      "listen": "0.0.0.0",
       "listen_port": 2334,
       "sniff": true,
       "sniff_override_destination": true,
@@ -92,7 +92,7 @@
         "2606:4700:110:851f:9141:253a:24f8:f68b/128"
       ],
       "private_key": "KEwwyuNxYooAhXqm8UkxoaW8U1uyGK7Ys8eVkUyC23A=",
-      "server": "188.114.99.195",
+      "server": "warp.cloudflare.com",
       "server_port": 894,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [93,222,197],
@@ -104,4 +104,5 @@
     {
       "type": "wireguard",
       "tag": "🇩🇪 WARP - Germany",
-      "detour
+      "detour",
+      "local_address
