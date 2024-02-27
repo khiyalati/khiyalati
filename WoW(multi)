@@ -1,0 +1,4 @@
+warp://162.159.192.208:1074/?ifp=1-5#warp-ir&&detour=warp://188.114.99.35:2408/?ifp=1-5#warp-main
+warp://188.114.99.75:1014/?ifp=1-5#warp-ir&&detour=warp://162.159.192.122:955/?ifp=1-5#warp-main
+warp://162.159.192.246:500/?ifp=1-5#warp-ir&&detour=warp://162.159.192.84:880/?ifp=1-5#warp-main
+warp://188.114.97.229:928/?ifp=1-5#warp-ir&&detour=warp://162.159.192.208:7152/?ifp=1-5#warp-main
