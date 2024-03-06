@@ -6,7 +6,7 @@
       "tag": "Warp-IR",
       "local_address": [
         "172.16.0.2/32",
-        2606:4700:110:8be1:b631:e912:5832:3518/128"
+        "2606:4700:110:8be1:b631:e912:5832:3518/128"
       ],
       "private_key": "iOBkodYcRwqwE/PBvBgV6YPVlMWk0VuGPqN3NFN4+ls=",
       "server": "162.159.195.207",
