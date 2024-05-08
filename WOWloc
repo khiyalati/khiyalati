@@ -51,8 +51,8 @@
     "final": "dns-remote",
     "static_ips": {
       "sky.rethinkdns.com": [
-        "172.67.204.84",
-        "104.21.69.44",
+        "194.36.49.231",
+        "185.207.92.152",
         "2606:4700:3032::6815:452c",
         "2606:4700:3031::ac43:cc54",
         "104.18.203.232",
@@ -123,13 +123,13 @@
       "tag": "🇮🇷 WARP - Iran",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8021:b6fa:49b2:e408:6ca1/128"
+        "2606:4700:110:8c91:4063:21d0:7dd5:f218/128"
       ],
-      "private_key": "6CrE7vKJI0Q6RGkwkpvaev/7eeuIQJxM2l3BH86+iUU=",
-      "server": "162.159.195.164",
-      "server_port": 1010,
+      "private_key": "AJ0si9MKGCtoC/NHwKc8G0MADbTPl/1M7KNWvM24W1g=",
+      "server": "162.159.195.212",
+      "server_port": 4233,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [126,190,92],
+      "reserved": "AAAA",
       "mtu": 1280,
       "fake_packets": "5-10",
       "fake_packets_size": "40-100",
@@ -141,13 +141,13 @@
       "detour": "🇮🇷 WARP - Iran",
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8dda:33ef:1018:b403:8180/128"
+        "2606:4700:110:8c15:3f90:ad2d:8810:77f3/128"
       ],
-      "private_key": "GCSA2eICKXavmwRqyPJ1tPrd0Y4ZRZ3KU6poO9hVcFw=",
-      "server": "188.114.99.188",
-      "server_port": 1014,
+      "private_key": "iKXZlb1y3GtpI6shoSD3OMaC3RWmvO1kebNJRHeOm14=",
+      "server": "162.159.195.212",
+      "server_port": 4233,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": [237,62,134],
+      "reserved": "AAAA",
       "mtu": 1280,
       "fake_packets": "5-10",
       "fake_packets_size": "40-100",
